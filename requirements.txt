@@ -4,6 +4,11 @@ matplotlib==3.10.8
 seaborn==0.13.2
 pyarrow==25.0.0
 scikit-learn==1.8.0
+scipy==1.16.3
+optbinning==0.21.0
+xgboost==3.3.0
+shap==0.52.0
+joblib==1.5.3
 jupyter
 notebook==7.5.0
 ipykernel==7.1.0
